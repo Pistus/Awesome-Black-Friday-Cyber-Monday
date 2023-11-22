@@ -663,7 +663,7 @@ Total deals: 420
 |  🤑 | [4x Flutter Course Bundle](https://codewithandrea.com/courses/all-courses-bundle/) | Advance your skills and learn how to build scalable apps with Dart, Flutter, and Firebase | 50% off until November 30th |
 |  🤑 | [Developer to Leader](https://www.developertoleader.com/?utm_source=tonydinhbf) | Learn how to lead a team successfully even if you've never managed or led anyone before. | 50% off with code **BLACKFRIDAY** |
 |  🤑 | [Develop and Deploy Laravel Applications with Docker](https://laraveldocker.com/) | Learn how to use Docker to develop, test, and deploy Laravel applications with this video course. | 50% off with code **BLACKFRIDAY** through Cyber Monday |
-
+|  🤑 | [Scrimba AI Engineer Path (javascript)](https://scrimba.com/learn/aiengineer?coupon=Black-Friday-2023) | Get started building AI powered apps by learning AI Engineering - for javascript developers. | 20% additional off with annual plan |
 
 
 [⬆️ Go to Top](#table-of-contents)
